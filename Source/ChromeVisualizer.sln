@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChromeVisualizer.Debugger", "ChromeVisualizer.Debugger\ChromeVisualizer.Debugger.csproj", "{094BC897-932C-4C8C-8543-9FE63F4F1D05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChromeVisualizer.Visualizer", "ChromeVisualizer.Visualizer\ChromeVisualizer.Visualizer.csproj", "{A9C7CEDE-57E2-4C7A-BF01-1653712099F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{094BC897-932C-4C8C-8543-9FE63F4F1D05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{094BC897-932C-4C8C-8543-9FE63F4F1D05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{094BC897-932C-4C8C-8543-9FE63F4F1D05}.Debug|x86.ActiveCfg = Debug|x86
+		{094BC897-932C-4C8C-8543-9FE63F4F1D05}.Debug|x86.Build.0 = Debug|x86
+		{094BC897-932C-4C8C-8543-9FE63F4F1D05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{094BC897-932C-4C8C-8543-9FE63F4F1D05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{094BC897-932C-4C8C-8543-9FE63F4F1D05}.Release|x86.ActiveCfg = Release|x86
+		{094BC897-932C-4C8C-8543-9FE63F4F1D05}.Release|x86.Build.0 = Release|x86
+		{A9C7CEDE-57E2-4C7A-BF01-1653712099F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9C7CEDE-57E2-4C7A-BF01-1653712099F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9C7CEDE-57E2-4C7A-BF01-1653712099F2}.Debug|x86.ActiveCfg = Debug|x86
+		{A9C7CEDE-57E2-4C7A-BF01-1653712099F2}.Debug|x86.Build.0 = Debug|x86
+		{A9C7CEDE-57E2-4C7A-BF01-1653712099F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9C7CEDE-57E2-4C7A-BF01-1653712099F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9C7CEDE-57E2-4C7A-BF01-1653712099F2}.Release|x86.ActiveCfg = Release|x86
+		{A9C7CEDE-57E2-4C7A-BF01-1653712099F2}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
